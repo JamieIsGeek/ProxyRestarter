@@ -1,0 +1,4 @@
+name: ProxyRestarter
+version: '${project.version}'
+main: net.sootmc.proxyrestarter.ProxyRestarter
+description: A plugin to autorestart a Bungeecord Proxy every 72 hours!
